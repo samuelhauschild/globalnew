@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96.902" height="52.993" viewBox="0 0 96.902 52.993">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00d1ff"/>
+      <stop offset="0.236" stop-color="#23deec"/>
+      <stop offset="0.582" stop-color="#52f0d3"/>
+      <stop offset="0.848" stop-color="#70fac4"/>
+      <stop offset="1" stop-color="#7bffbf"/>
+    </linearGradient>
+  </defs>
+  <g id="Vetor_-_Elipses" data-name="Vetor - Elipses" transform="translate(0)" opacity="0.7">
+    <ellipse id="Elipse_908" data-name="Elipse 908" cx="4.542" cy="4.542" rx="4.542" ry="4.542" transform="translate(65.863)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_909" data-name="Elipse 909" cx="4.542" cy="4.542" rx="4.542" ry="4.542" transform="translate(44.666)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_441" data-name="Elipse 441" cx="4.921" cy="4.542" rx="4.921" ry="4.542" transform="translate(21.955 21.954)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_451" data-name="Elipse 451" cx="4.921" cy="4.542" rx="4.921" ry="4.542" transform="translate(21.955)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_435" data-name="Elipse 435" cx="4.921" cy="4.542" rx="4.921" ry="4.542" transform="translate(87.061 21.954)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_910" data-name="Elipse 910" cx="4.542" cy="4.542" rx="4.542" ry="4.542" transform="translate(65.863 43.909)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_440" data-name="Elipse 440" cx="4.921" cy="4.542" rx="4.921" ry="4.542" transform="translate(0 21.954)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_436" data-name="Elipse 436" cx="4.542" cy="4.542" rx="4.542" ry="4.542" transform="translate(65.863 21.954)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_911" data-name="Elipse 911" cx="4.542" cy="4.542" rx="4.542" ry="4.542" transform="translate(44.666 43.909)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_443" data-name="Elipse 443" cx="4.542" cy="4.542" rx="4.542" ry="4.542" transform="translate(44.666 21.954)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

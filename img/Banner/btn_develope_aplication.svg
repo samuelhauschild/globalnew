@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="376" height="62" viewBox="0 0 376 62">
+  <g id="Botão_-_Desenvolva_sua_aplicação" data-name="Botão - Desenvolva sua aplicação" transform="translate(-79 -520)">
+    <g id="Grupo_147" data-name="Grupo 147" transform="translate(5262 10983)">
+      <rect id="Retângulo_170" data-name="Retângulo 170" width="376" height="62" rx="31" transform="translate(-5183 -10463)" fill="#287add"/>
+      <text id="Desenvolva_sua_aplicação" data-name="Desenvolva sua aplicação" transform="translate(-5015 -10425)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-134" y="0">Desenvolva sua aplicação</tspan></text>
+    </g>
+    <path id="Icon_metro-arrow-right" data-name="Icon metro-arrow-right" d="M21.286,28.356l9.64-9.64a1.928,1.928,0,0,0,0-2.727l-9.64-9.64A1.928,1.928,0,0,0,18.56,9.075l6.349,6.349H6.427a1.928,1.928,0,1,0,0,3.856H24.908L18.56,25.629a1.928,1.928,0,0,0,2.727,2.727Z" transform="translate(393.505 533.647)" fill="#fff"/>
+  </g>
+</svg>

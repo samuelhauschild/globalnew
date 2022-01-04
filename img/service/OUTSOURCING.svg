@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182.33" height="171.711" viewBox="0 0 182.33 171.711">
+  <g id="OUTSOURCING" transform="translate(0 14.095)">
+    <g id="Outsourcing-2" data-name="Outsourcing" transform="translate(0 105.311)">
+      <text id="Outsourcing-3" data-name="Outsourcing" transform="translate(20.665 33.653)" fill="#287add" font-size="22" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Outsourcing</tspan></text>
+      <g id="Retângulo_1164" data-name="Retângulo 1164" fill="none" stroke="#707070" stroke-width="1" opacity="0">
+        <rect width="182.33" height="52.305" stroke="none"/>
+        <rect x="0.5" y="0.5" width="181.33" height="51.305" fill="none"/>
+      </g>
+    </g>
+    <g id="Ícone_Outsourcing" data-name="Ícone Outsourcing" transform="translate(40.889 -14.095)">
+      <rect id="Retângulo_1845" data-name="Retângulo 1845" width="100.552" height="100.552" transform="translate(0)" fill="none"/>
+      <ellipse id="Elipse_888" data-name="Elipse 888" cx="37.785" cy="37.785" rx="37.785" ry="37.785" transform="translate(12.491 12.491)" fill="none" stroke="#287add" stroke-width="6"/>
+      <line id="Linha_152" data-name="Linha 152" x2="71.178" transform="translate(14.905 37.738)" fill="none" stroke="#287add" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="Linha_153" data-name="Linha 153" x2="71.177" transform="translate(14.907 62.897)" fill="none" stroke="#287add" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <ellipse id="Elipse_889" data-name="Elipse 889" cx="15.724" cy="36.725" rx="15.724" ry="36.725" transform="translate(34.77 13.592)" fill="none" stroke="#287add" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

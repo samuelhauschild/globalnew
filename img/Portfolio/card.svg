@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="919.134" height="425.317" viewBox="0 0 919.134 425.317">
+  <defs>
+    <filter id="Fundo_Card_Mockups" x="0" y="0" width="919.134" height="425.317" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Fundo_Card_Mockups)">
+    <rect id="Fundo_Card_Mockups-2" data-name="Fundo Card Mockups" width="901.134" height="407.317" rx="24" transform="translate(9 6)" fill="#f4f5f7"/>
+  </g>
+</svg>

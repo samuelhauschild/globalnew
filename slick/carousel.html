@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>carousel</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="slick-1.8.1/slick/slick.css">
+	<link rel="stylesheet" type="text/css" href="slick-1.8.1/slick/slick-theme.css">
+	<style>
+		html,
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		* {
+			box-sizing: border-box;
+		}
+
+		.slider {
+			width: 50%;
+			margin: 100px auto;
+		}
+
+		.slick-slide {
+			margin: 0px 20px;
+		}
+
+		.slick-slide img {
+			width: 100%;
+		}
+
+		.slick-prev:before,
+		.slick-next:before {
+			color: black;
+		}
+
+
+		.slick-slide {
+			transition: all ease-in-out .3s;
+			opacity: .2;
+		}
+
+		.slick-active {
+			opacity: .5;
+		}
+
+		.slick-current {
+			opacity: 1;
+		}
+		.itensC {
+			position: relative;
+			top: 0;
+			background:rgba(0,0,0,1);
+
+		}
+		.itensC h2 {
+			position: absolute;
+			top: 0;
+			left: 0;
+			
+		}
+	</style>
+</head>
+
+<body>
+
+	<section class="regular slider">
+		<div class="itensC">
+           <h2>ola</h2>
+			<img src="http://placehold.it/350x300?text=1" class="img-responsive">
+		
+		</div>
+		<div class="itensC">
+			<img src="http://placehold.it/350x300?text=2" class="img-responsive">
+		</div>
+		<div class="itensC">
+			<img src="http://placehold.it/350x300?text=3" class="img-responsive">
+		</div>
+		<div class="itensC">
+			<img src="http://placehold.it/350x300?text=4" class="img-responsive">
+		</div>
+		<div class="itensC">
+			<img src="http://placehold.it/350x300?text=5" class="img-responsive">
+		</div>
+		<div class="itensC">
+			<img src="http://placehold.it/350x300?text=6" class="img-responsive">
+		</div>
+
+		<div class="itensC">
+			<img src="http://placehold.it/350x300?text=7" class="img-responsive">
+		</div>
+
+		<div class="itensC">
+			<img src="http://placehold.it/350x300?text=8" class="img-responsive">
+		</div>
+
+		<div class="itensC">
+			<img src="http://placehold.it/350x300?text=9" class="img-responsive">
+		</div>
+
+		<div class="itensC">
+			<img src="http://placehold.it/350x300?text=10" class="img-responsive">
+		</div>
+
+	</section>
+
+
+
+	<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+	<script src="slick-1.8.1/slick/slick.min.js"></script>
+	<script src="carousel.js"></script>
+
+</body></html>

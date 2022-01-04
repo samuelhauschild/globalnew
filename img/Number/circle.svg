@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.984" height="65.442" viewBox="0 0 46.984 65.442">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00d1ff"/>
+      <stop offset="0.236" stop-color="#23deec"/>
+      <stop offset="0.582" stop-color="#52f0d3"/>
+      <stop offset="0.848" stop-color="#70fac4"/>
+      <stop offset="1" stop-color="#7bffbf"/>
+    </linearGradient>
+  </defs>
+  <g id="Vetor_-_Elipses" data-name="Vetor - Elipses" transform="translate(-3503.748 1162.798) rotate(-90)" opacity="0.7">
+    <circle id="Elipse_450" data-name="Elipse 450" cx="4.195" cy="4.195" r="4.195" transform="translate(1116.653 3503.748)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_451" data-name="Elipse 451" cx="4.195" cy="4.195" r="4.195" transform="translate(1135.111 3503.748)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_452" data-name="Elipse 452" cx="4.195" cy="4.195" r="4.195" transform="translate(1154.408 3503.748)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_436" data-name="Elipse 436" cx="4.195" cy="4.195" r="4.195" transform="translate(1097.356 3523.045)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_443" data-name="Elipse 443" cx="4.195" cy="4.195" r="4.195" transform="translate(1115.814 3523.045)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_438" data-name="Elipse 438" cx="4.195" cy="4.195" r="4.195" transform="translate(1115.814 3542.342)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_554" data-name="Elipse 554" cx="4.195" cy="4.195" r="4.195" transform="translate(1135.111 3542.342)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_555" data-name="Elipse 555" cx="4.195" cy="4.195" r="4.195" transform="translate(1134.272 3523.045)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

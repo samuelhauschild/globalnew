@@ -1,0 +1,792 @@
+/* Carrosel Slick*/
+.slick-next,
+.slick-prev {
+    display: block!important;
+    position: relative;
+    z-index: 4;
+}
+#carousel1 .slick-active:focus {
+    outline: 0px !important
+}
+
+.slick-dots {
+    position: static !important;
+    bottom: -74px;
+    display: flex!important;
+    justify-content: center;
+    margin-top: 50px!important;
+    margin-bottom: 80px!important;
+}
+#carousel04 .slick-dots {
+    position: relative!important;
+    bottom: 48px;
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+}
+
+#carousel1 .slick-dots {
+    position: relative;
+    top: 10px;
+}
+
+#carousel1 .slick-traheack:before,
+.slick-track:after {
+    display: none !important;
+}
+
+#carousel1 .slick-track {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+
+.car-item {
+    position: relative;
+    margin: 0 14px 0 0;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.carousel > div {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#slick-slide-control13:before,
+#slick-slide-control12:before,
+#slick-slide-control11:before,
+#slick-slide-control10:before {
+    font-size: 15px;
+    color: #004279;
+}
+
+.slick-dots li button {
+    border: solid 1px #287ADD;
+    width: 15px !important;
+    height: 15px !important;
+    text-indent: -999px;
+    background-color: rgb(255 255 255 / 0%) !important;
+    border-radius: 11px;
+    border: solid 1px #287ADD!important;
+}
+
+.slick-dots li button:before,
+.slick-dots li button:after {
+    display: none;
+}
+
+.slick-dots li.slick-active button {
+    background-color: #287ADD!important;
+    border: solid 1px #287ADD!important;
+}
+
+.slick-prev,
+.slick-next {
+    font-size: 20px;
+    width: 93px !important;
+    height: 93px !important;
+    z-index: 9 !important;
+    position: relative;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    font-size: 33px !important;
+    opacity: 1 !important;
+    display: none;
+}
+.slick-prev {
+    left: 0 !important;
+    margin-left: 0;
+}
+.contact .slick-prev {
+    left: 0 !important;
+}
+
+.slick-next {
+    right: 0;
+    margin-right:0;
+}
+.contact .slick-prev {
+    right: 0;
+    top: 0;
+    left: 0;
+    transform: initial;
+    -webkit-transform: initial;
+    -moz-transform: initial;
+    -ms-transform: initial;
+    -o-transform: initial;
+}
+.contact .slick-next {
+  right: 0;
+  top: 0;
+  left: 0;
+  transform: initial;
+  -webkit-transform: initial;
+  -moz-transform: initial;
+  -ms-transform: initial;
+  -o-transform: initial;
+}
+
+.slick-slider {
+    position: relative;
+    display: block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+.slick-list {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    z-index:initial;
+}
+.contact .slick-list {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    z-index: 2;
+    margin-left: -11vw;
+    margin-right: calc(-4vw - 9px);    
+    /* margin-left: -35vw;
+    margin-right: -35vw; */
+}
+
+.slick-list:focus {
+    outline: none;
+}
+
+.slick-list.dragging {
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list {
+
+}
+
+.slick-track {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slick-track:before,
+.slick-track:after {
+    display: table;
+    content: '';
+}
+
+.slick-track:after {
+    clear: both;
+}
+
+.slick-loading .slick-track {
+    visibility: hidden;
+}
+
+.slick-slide {
+    display: none;
+    float: none;
+    height: 100%;
+    min-height: 1px;
+}
+
+[dir='rtl'] .slick-slide {
+    float: right;
+}
+
+.slick-slide img {
+    display: block;
+}
+
+.slick-slide.slick-loading img {
+    display: none;
+}
+
+.slick-slide.dragging img {
+    pointer-events: none;
+}
+
+.slick-initialized .slick-slide {
+    display: block;
+    margin-bottom: 16px;
+}
+
+.slick-loading .slick-slide {
+    visibility: hidden;
+}
+
+.slick-vertical .slick-slide {
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+
+.slick-arrow.slick-hidden {
+    display: none;
+}
+.modal-container .slick-prev:before,
+.modal-container .slick-next:before {
+    font-size: 33px !important;
+    opacity: 1 !important;
+    display: block;
+}
+.modal-container .modal-body .slick-track {
+    width: 100%!important;
+}
+.modal-container .modal-body .slick-initialized .slick-slide  {
+    width: 100%!important;
+}
+
+/* slick  Fim*/
+ /* PORTFFOLIO */
+
+ .portfolio .slick-prev, .portfolio .slick-next {
+    display: block;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+}
+
+.portfolio .setleft {
+    position: absolute;
+    top: 44%;
+    right: -54px;
+    transform: translate(-5%,-50%);
+    z-index: 1;
+}
+ .portfolio .setRight {
+    position: absolute;
+    top: 44%;
+    left: 40px;
+    transform: translate(0,-50%);
+    z-index: 1;
+    -webkit-transform: translate(0,-50%);
+    -moz-transform: translate(0,-50%);
+    -ms-transform: translate(0,-50%);
+    -o-transform: translate(0,-50%);
+
+}
+
+ .portfolio .slick-prev::before {
+    content: url("../img/Portfolio/setLeft.svg");
+    left: 0;
+    right: 0;
+    width: 100% !important;
+    max-width: 75.5px !important;
+    height: auto !important;    
+    display: block;
+ }
+ .portfolio .btn_portfolio {
+    margin-top: -31px;
+    position: relative;
+    z-index: 1;
+}
+ .portfolio .btn_next_slider_portfolio {
+     width: 40px;
+ }
+ .portfolio .btn_prev_slider_portfolio {
+    width: 40px;
+}
+.portfolio  .btnNextImg {
+    background-image: url("../img/Portfolio/setRight.svg");
+    background-size: cover;
+    width: 40px;
+    height: 40px;    
+    display: block;
+    cursor: pointer;
+    position: relative;
+    left: 16px;
+ }
+ .portfolio .btnPrevImg {
+    background-image: url("../img/Portfolio/setLeft.svg");
+    background-size: cover;
+    width: 40px;
+    height: 40px;    
+    display: block;
+    cursor: pointer;
+    position: relative;
+    left: -16px;
+ }
+ .portfolio .btnPrevImg:hover {
+    background-image: url("../img/Portfolio/setLeftazul.svg");
+    background-size: cover;
+ }
+ .portfolio .btnNextImg:hover {
+    background-image: url("../img/Portfolio/setRightazul.svg");
+    background-size: cover;
+ }
+ .portfolio .slick-prev:hover::before {
+    content: url("../img/Portfolio/setLeftazul.svg");
+    left: 0;
+    right: 0;
+    width: 100% !important;
+    max-width: 75.5px !important;
+    height: auto !important;    
+    display: block;
+ }
+ .portfolio .slick-prev:hover::before {
+    content: url("../img/Portfolio/setLeftazul.svg");
+    left: 0;
+    right: 0;
+    width: 100% !important;
+    max-width: 75.5px !important;
+    height: auto !important;    
+    display: block;
+ }
+ .portfolio .slick-next::before {
+    content: url("../img/Portfolio/setRight.svg");
+    width: 100% !important;
+    max-width: 75.5px !important;
+    height: auto !important;
+    left: 0;
+    right: 0;
+    display: block;
+ }
+ .portfolio .slick-next:hover::before {
+    content: url("../img/Portfolio/setRightazul.svg");
+    width: 100% !important;
+    max-width: 75.5px !important;
+    height: auto !important;
+    left: 0;
+    right: 0;
+    display: block;
+ }
+
+ /* PORTFFOLIO FIM  */
+/* CONTACT */
+.contact .slick-prev, .contact .slick-next {
+    display: block;
+}
+.contact .setleft {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+    margin-right: 0;
+    margin-top: 0px;
+}
+.contact .setRight {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: flex-end;
+}
+.contact .slick-prev {
+    position: relative;
+    top: calc(67px + 40px);
+}
+.contact .slick-prev::before {
+    content: url("../img/Portfolio/setLeft.svg");
+    left: 0;
+    right: 0;
+    width: 75.5px !important;
+    height: auto !important;   
+    display: block;
+ }
+ .contact .slick-prev:hover::before {
+    content: url("../img/Portfolio/setLeftazul.svg");
+    left: 0;
+    right: 0;
+    width: 75.5px !important;
+    height: auto !important;    
+    display: block;
+ }
+ .contact .slick-next {
+    margin-left:calc(126px + 40px);
+    position: relative;
+    top: calc(67px + 40px);
+ }
+ .contact .slick-next::before {
+    content: url("../img/Portfolio/setRight.svg");
+    width: 75.5px !important;
+    height: auto !important;
+    left: 0;
+    right: 0;
+    display: block;
+ }
+ .contact .slick-next:hover::before {
+    content: url("../img/Portfolio/setRightazul.svg");
+    width: 75.5px !important;
+    height: auto !important;
+    left: 0;
+    right: 0;
+    display: block;
+ }
+.contact .slick-slide {
+    width: 100%!important;
+    max-width: 910px!important;
+    min-height: 432px!important;
+    margin-left: 40px;
+}
+  .contact .slick-slide:not(.slick-active) {
+    opacity: 0.5;
+}
+/* CONTACT FIM */
+
+/* SERVICE */
+.service .slick-list {
+    margin-left: -17vw;
+    margin-right: -17vw;
+}
+.service .slick-initialized .slick-slide {
+    margin-bottom: 0;
+}
+.contact .btn_portfolio {
+    margin-top: 24px;
+    position: relative;
+    z-index: 3;
+}
+ .contact .btn_next_slider_portfolio {
+    width: 93px;
+    height: 93px;
+ }
+ .contact .btn_prev_slider_portfolio {
+    width: 93px;
+    height: 93px;
+}
+.contact  .btnNextImg {
+    background-image: url("../img/Portfolio/setRight.svg");
+    background-size: cover;
+    width: 93px;
+    height: 93px; 
+    display: block;
+    cursor: pointer;
+    position: relative;
+    left: 16px;
+ }
+ .contact .btnPrevImg {
+    background-image: url("../img/Portfolio/setLeft.svg");
+    background-size: cover;
+    width: 93px;
+    height: 93px;
+    display: block;
+    cursor: pointer;
+    position: relative;
+    left: -16px;
+ }
+ .contact .btnPrevImg:hover {
+    background-image: url("../img/Portfolio/setLeftazul.svg");
+    background-size: cover;
+
+ }
+ .contact .btnNextImg:hover {
+    background-image: url("../img/Portfolio/setRightazul.svg");
+    background-size: cover;
+
+ }
+@media screen and (min-width: 1400px) {
+    /*PORFTFOLIO 1400PX*/
+    body {
+        overflow-x: hidden;
+    }
+    .contact .slick-list {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        z-index: 2;
+        margin-left: -11vw;
+        margin-right: calc(-4vw - 9px);    
+        margin-left: -35vw;
+        margin-right: -35vw; 
+    }
+    .portfolio .setleft {
+        top: 44%;
+        right: -57px !important;
+    }
+    .portfolio .setRight {
+        position: absolute;
+        top: 44%;
+        left: 60px;
+        transform: translate(0,-50%);
+        z-index: 1;
+        -webkit-transform: translate(0,-50%);
+        -moz-transform: translate(0,-50%);
+        -ms-transform: translate(0,-50%);
+        -o-transform: translate(0,-50%);
+    
+    }
+}
+
+@media screen and (min-width:992px) {
+    .portfolio .btn_portfolio {
+       display: none;
+    }
+}
+@media screen and (max-width:991px) {
+    .contact .slick-slide {
+        max-width: 338px;
+    }
+    
+    .contact .container_company .box_company .company {
+        max-width:338px;
+    }
+}
+ @media screen and (max-width:992px) {
+    .contact .btn_portfolio {
+        margin-top: 24px;
+        position: relative;
+        z-index: 3;
+    }
+    .contact .btn_next_slider_portfolio {
+        width: 40px;
+        height: 40px;
+     }
+     .contact .btn_prev_slider_portfolio {
+        width: 40px;
+        height: 40px;
+    }
+    .contact  .btnNextImg {
+        background-image: url("../img/Portfolio/setRight.svg");
+        background-size: cover;
+        width: 40px;
+        height: 40px; 
+        display: block;
+        cursor: pointer;
+        position: relative;
+        left: 16px;
+     }
+     .contact .btnPrevImg {
+        background-image: url("../img/Portfolio/setLeft.svg");
+        background-size: cover;
+        width: 40px;
+        height: 40px;
+        display: block;
+        cursor: pointer;
+        position: relative;
+        left: -16px;
+     }
+     .contact .btnPrevImg:hover {
+        background-image: url("../img/Portfolio/setLeftazul.svg");
+        background-size: cover;
+    
+     }
+     .contact .btnNextImg:hover {
+        background-image: url("../img/Portfolio/setRightazul.svg");
+        background-size: cover;
+    
+     }
+    .portfolio .setleft {
+        right: 0!important
+    } 
+    .portfolio .setRight {
+        left: 0!important;
+    }
+    .portfolio .setRight {
+        position: absolute;
+        z-index: 1;
+        bottom: 0;
+        top: initial;
+    }
+    .portfolio .setRight {
+        position: absolute !important;
+        bottom: 0 !important;
+        left: 40px;
+        z-index: 1;
+        width: 100%;
+        display: flex;
+        align-items: flex-end;
+        height: 43px;
+        justify-content: center
+    }
+    .portfolio .setRight {
+        position: absolute;
+        z-index: 1;
+}
+    .contact .slick-prev, .contact .slick-next
+    .portfolio .setRight {
+        bottom: 0;
+        left: 40%;
+    }
+    .portfolio .setleft {
+        top: initial;
+        bottom: 0;
+        left: 65%;
+    }
+    .portfolio .slick-prev {
+        left: -50px !important;
+        bottom: 0;
+        width: 40px!important;
+        height: 40px!important;
+        margin-bottom: -24px!important;
+    }   
+    .portfolio .slick-next {
+        left:-10px!important;
+        top: calc(22px + 24px);
+        width: 40px!important;
+        height: 40px!important;
+    }
+    .contact .setRight {
+        display: none;
+    }
+    .contact .setleft {
+        display: none;
+    }
+ }
+ @media screen and (max-width:515px) {
+      .btn_portfolio {
+    margin-top: -31px;
+    position: relative;
+    z-index: 1;
+}
+ .portfolio .btn_next_slider_portfolio {
+     width: 40px;
+ }
+ .portfolio .btn_prev_slider_portfolio {
+    width: 40px;
+}
+.portfolio  .btnNextImg {
+    background-image: url("../img/Portfolio/setLeft.svg");
+    background-size: cover;
+    width: 40px;
+    height: 40px;    
+    display: block;
+    cursor: pointer;
+    position: relative;
+    left: -16px;
+ }
+ .portfolio .btnPrevImg {
+    background-image: url("../img/Portfolio/setRight.svg");
+    background-size: cover;
+    width: 40px;
+    height: 40px;    
+    display: block;
+    cursor: pointer;
+    position: relative;
+    left: 16px;
+ }
+    .contact .slick-slide {
+        max-width: 338px;
+    }
+    
+    .contact .container_company .box_company .company {
+        max-width:338px;
+    }
+    .contact .content {
+        width: auto!important;
+        max-width: initial;
+    }
+     .contact .slick-next {
+         position: relative;
+        
+         height: auto!important;
+         width: auto!important;
+         margin: 0 !important;
+         padding: 0!important;
+     }
+     .contact .slick-prev::before {
+       content: url("../img/Portfolio/setLeft.svg");
+       left: 0;
+       right: 0;
+       width: 40px !important;
+       height: 40px !important;   
+       display: block;
+    }
+    .contact .slick-prev:hover::before {
+       content: url("../img/Portfolio/setLeftazul.svg");
+       left: 0;
+       right: 0;
+       width: 40px !important;
+       height: 40px !important;
+       height: auto !important;    
+       display: block;
+    }
+    .contact .slick-next::before {
+       content: url("../img/Portfolio/setRight.svg");
+       width: 40px !important;
+       height: 40px !important;
+       left: 0;
+       right: 0;
+       display: block;
+    }
+    .contact .slick-next:hover::before {
+       content: url("../img/Portfolio/setRightazul.svg");
+       width: 40px !important;
+       height: 40px !important;
+       left: 0;
+       right: 0;
+       display: block;
+    }
+   .contact .setleft {
+       height:auto;
+       display: flex;
+       align-items:flex-end;
+       justify-content: center;
+       height: auto;
+       margin-top:0;
+       margin-bottom: 0;
+   }
+   .contact .slick-prev {
+       width: 100%;
+       width: auto!important;
+       height: auto!important;
+       position: relative;
+   }
+   .contact .slick-next {
+       width: initial!important;
+       height: initial!important;
+       position: relative;
+   }
+    .contact .setRight {
+        height: 100%!important;
+    
+      }
+      .contact .setleft {
+        height: 100% !important;
+        margin-top: 0 !important;
+      }
+      .contact .slick-prev  {
+        width: auto!important;
+        height: auto!important;
+      }
+      .contact .setleft button {
+        position: relative!important;
+        height: auto !important;
+        top: 44px;
+      }
+      .contact .setRight button {
+        position: relative !important;
+        margin-right: calc(72px + 40px);
+        top: 44px;
+      
+      }
+ }

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="211.606" height="156.974" viewBox="0 0 211.606 156.974">
+  <g id="BANCO_DE_DADOS" data-name="BANCO DE DADOS" transform="translate(24 0)">
+    <g id="Banco_de_Dados-2" data-name="Banco de Dados" transform="translate(0 104.668)">
+      <text id="Banco_de_Dados-3" data-name="Banco de Dados" transform="translate(-8.697 33.652)" fill="#373737" font-size="22" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Banco de Dados</tspan></text>
+      <g id="Retângulo_1133" data-name="Retângulo 1133" transform="translate(-24)" fill="none" stroke="#707070" stroke-width="1" opacity="0">
+        <rect width="211.606" height="52.305" stroke="none"/>
+        <rect x="0.5" y="0.5" width="210.606" height="51.305" fill="none"/>
+      </g>
+    </g>
+    <g id="Ícone_-_Banco_de_Dados" data-name="Ícone - Banco de Dados" transform="translate(45.479 0)">
+      <rect id="Retângulo_1844" data-name="Retângulo 1844" width="72.648" height="72.006" transform="translate(0 0)" fill="none"/>
+      <ellipse id="Elipse_887" data-name="Elipse 887" cx="25.073" cy="13.822" rx="25.073" ry="13.822" transform="translate(10.929 9.001)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Caminho_7433" data-name="Caminho 7433" d="M40,80V93.579c0,7.5,11.146,13.579,24.9,13.579s24.9-6.08,24.9-13.579V80" transform="translate(-28.729 -57.287)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Caminho_7434" data-name="Caminho 7434" d="M40,128v13.579c0,7.5,11.146,13.579,24.9,13.579s24.9-6.08,24.9-13.579V128" transform="translate(-28.729 -91.708)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

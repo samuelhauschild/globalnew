@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115.043" height="63.41" viewBox="0 0 115.043 63.41">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00d1ff"/>
+      <stop offset="0.236" stop-color="#23deec"/>
+      <stop offset="0.582" stop-color="#52f0d3"/>
+      <stop offset="0.848" stop-color="#70fac4"/>
+      <stop offset="1" stop-color="#7bffbf"/>
+    </linearGradient>
+  </defs>
+  <g id="Vetor_-_Elipses" data-name="Vetor - Elipses" transform="translate(3.124 -0.398)" opacity="0.7">
+    <circle id="Elipse_909" data-name="Elipse 909" cx="5.435" cy="5.435" r="5.435" transform="translate(47.604 0.399)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_441" data-name="Elipse 441" cx="5.888" cy="5.435" rx="5.888" ry="5.435" transform="translate(73.873 26.668)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_451" data-name="Elipse 451" cx="5.888" cy="5.435" rx="5.888" ry="5.435" transform="translate(73.873 0.399)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_910" data-name="Elipse 910" cx="5.435" cy="5.435" r="5.435" transform="translate(22.24 52.938)" fill="url(#linear-gradient)"/>
+    <ellipse id="Elipse_440" data-name="Elipse 440" cx="5.888" cy="5.435" rx="5.888" ry="5.435" transform="translate(100.143 26.668)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_436" data-name="Elipse 436" cx="5.435" cy="5.435" r="5.435" transform="translate(22.24 26.668)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_913" data-name="Elipse 913" cx="5.435" cy="5.435" r="5.435" transform="translate(-3.124 26.668)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_911" data-name="Elipse 911" cx="5.435" cy="5.435" r="5.435" transform="translate(47.604 52.938)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_443" data-name="Elipse 443" cx="5.435" cy="5.435" r="5.435" transform="translate(47.604 26.668)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
